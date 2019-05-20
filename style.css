@@ -12,10 +12,10 @@
 }
 .button{
     margin-top: 10px;
-} */
-[class*="col-"] {
+} 
+ [class*="col-"] {
     margin-top: 5px;
-  }
+  }*/
 [class*="btn-"] {
     margin-top: 2px;
-  }
+  } 
