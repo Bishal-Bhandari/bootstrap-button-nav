@@ -1,0 +1,21 @@
+/* .nav{
+    margin: 20px 0;
+    height: 105px;
+    background: #1879f8;
+    line-height: 55px;
+}
+.blue{
+    background: #1879f8;
+}
+.dark{
+    background: #343a40;
+}
+.button{
+    margin-top: 10px;
+} */
+[class*="col-"] {
+    margin-top: 5px;
+  }
+[class*="btn-"] {
+    margin-top: 2px;
+  }
